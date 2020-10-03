@@ -1,0 +1,2 @@
+The output of [write] was:
+5435
